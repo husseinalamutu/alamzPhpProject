@@ -28,7 +28,7 @@ OR follow gitbash commands
 
 9. after importing successfully.
 
-10. open any browser and type http://localhost/php/index.php.
+10. open any browser and type http://localhost/index.php.
 
 11. first register and then login
 
